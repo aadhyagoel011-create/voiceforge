@@ -1,0 +1,542 @@
+[
+  {
+    "id": "conv-1792938529616",
+    "agentId": "agent-1792851854406",
+    "agentName": "AI Interview Practice Buddy",
+    "type": "Interactive Demo Mode",
+    "isSample": false,
+    "startTime": "2026-10-25T14:28:49.616Z",
+    "duration": "1m 41s",
+    "status": "Completed",
+    "transcript": [
+      {
+        "speaker": "agent",
+        "text": "Hello! Welcome to Horizon Academy admissions. How can I guide you with our courses, campus tours, or enrollment today?",
+        "timestamp": "07:57:08 PM"
+      }
+    ],
+    "metadata": {
+      "sessionType": "Interactive Demo Mode",
+      "voice": "Domi",
+      "language": "English",
+      "endedAt": "2026-10-25T14:28:49.469Z"
+    }
+  },
+  {
+    "id": "conv-1792938419568",
+    "agentId": "agent-clinic-receptionist-001",
+    "agentName": "Aarogya Clinic Receptionist",
+    "type": "Interactive Demo Mode",
+    "isSample": false,
+    "startTime": "2026-10-25T14:26:59.568Z",
+    "duration": "1m 07s",
+    "status": "Completed",
+    "transcript": [
+      {
+        "speaker": "agent",
+        "text": "Namaste! Welcome to Aarogya Health Clinic. Main aapki appointment booking aur clinic jaankari me kaise madad kar sakta hoon?",
+        "timestamp": "07:55:52 PM"
+      },
+      {
+        "speaker": "user",
+        "text": "हेलो",
+        "timestamp": "07:56:06 PM"
+      },
+      {
+        "speaker": "agent",
+        "text": "Politely state that you will connect them with the duty clinic nurse or desk coordinator rather than guessing.",
+        "timestamp": "07:56:06 PM"
+      }
+    ],
+    "metadata": {
+      "sessionType": "Interactive Demo Mode",
+      "voice": "Rachel",
+      "language": "Hindi",
+      "endedAt": "2026-10-25T14:26:59.465Z"
+    }
+  },
+  {
+    "id": "conv-1792938334455",
+    "agentId": "agent-1792851854406",
+    "agentName": "AI Interview Practice Buddy",
+    "type": "Interactive Demo Mode",
+    "isSample": false,
+    "startTime": "2026-10-25T14:25:34.456Z",
+    "duration": "0m 37s",
+    "status": "Completed",
+    "transcript": [
+      {
+        "speaker": "agent",
+        "text": "Hello! Welcome to Horizon Academy admissions. How can I guide you with our courses, campus tours, or enrollment today?",
+        "timestamp": "07:54:58 PM"
+      },
+      {
+        "speaker": "user",
+        "text": "hi first of all nice to meet you",
+        "timestamp": "07:55:14 PM"
+      },
+      {
+        "speaker": "agent",
+        "text": "Understood. Remember to structure your response with clear actions and quantifiable outcomes. Would you like to practice a technical or behavioral scenario?",
+        "timestamp": "07:55:14 PM"
+      }
+    ],
+    "metadata": {
+      "sessionType": "Interactive Demo Mode",
+      "voice": "Domi",
+      "language": "English",
+      "endedAt": "2026-10-25T14:25:34.353Z"
+    }
+  },
+  {
+    "id": "conv-1792938070885",
+    "agentId": "agent-1792851854406",
+    "agentName": "AI Interview Practice Buddy",
+    "type": "Interactive Demo Mode",
+    "isSample": false,
+    "startTime": "2026-10-25T14:21:10.886Z",
+    "duration": "1m 17s",
+    "status": "Completed",
+    "transcript": [
+      {
+        "speaker": "agent",
+        "text": "Hello! Welcome to Horizon Academy admissions. How can I guide you with our courses, campus tours, or enrollment today?",
+        "timestamp": "07:49:54 PM"
+      },
+      {
+        "speaker": "user",
+        "text": "I would like to know about what all",
+        "timestamp": "07:50:14 PM"
+      },
+      {
+        "speaker": "agent",
+        "text": "Understood. Remember to structure your response with clear actions and quantifiable outcomes. Would you like to practice a technical or behavioral scenario?",
+        "timestamp": "07:50:14 PM"
+      },
+      {
+        "speaker": "user",
+        "text": "I don't know what you are saying please try to explain me",
+        "timestamp": "07:50:32 PM"
+      },
+      {
+        "speaker": "agent",
+        "text": "Great response! You clearly outlined your technical rationale. To elevate your answer, quantify the business impact or latency reduction. Ready for Question 2?",
+        "timestamp": "07:50:32 PM"
+      },
+      {
+        "speaker": "user",
+        "text": "I would like to know about",
+        "timestamp": "07:51:01 PM"
+      },
+      {
+        "speaker": "agent",
+        "text": "Understood. Remember to structure your response with clear actions and quantifiable outcomes. Would you like to practice a technical or behavioral scenario?",
+        "timestamp": "07:51:01 PM"
+      }
+    ],
+    "metadata": {
+      "sessionType": "Interactive Demo Mode",
+      "voice": "Domi",
+      "language": "English",
+      "endedAt": "2026-10-25T14:21:10.725Z"
+    }
+  },
+  {
+    "id": "conv-1792937662136",
+    "agentId": "agent-1792853046623",
+    "agentName": "Aarogya Clinic Receptionist",
+    "type": "Interactive Demo Mode",
+    "isSample": false,
+    "startTime": "2026-10-25T14:14:22.136Z",
+    "duration": "1m 17s",
+    "status": "Completed",
+    "transcript": [
+      {
+        "speaker": "agent",
+        "text": "Namaste! Welcome to our clinic. Main aapki doctor appointment aur clinic timing me kaise sahayata kar sakta hoon?",
+        "timestamp": "07:43:11 PM"
+      },
+      {
+        "speaker": "user",
+        "text": "मैं पूछना चाहती हूं कि आपकी टाइमिंग क्या है क्लीनिक खोलने की",
+        "timestamp": "07:43:40 PM"
+      },
+      {
+        "speaker": "agent",
+        "text": "Explain politely that the front-desk coordinator will verify with the on-duty doctor.",
+        "timestamp": "07:43:40 PM"
+      },
+      {
+        "speaker": "user",
+        "text": "आप क्या कह रहे हैं मुझे समझ में नहीं आ रहा",
+        "timestamp": "07:43:55 PM"
+      },
+      {
+        "speaker": "agent",
+        "text": "Explain politely that the front-desk coordinator will verify with the on-duty doctor.",
+        "timestamp": "07:43:55 PM"
+      },
+      {
+        "speaker": "user",
+        "text": "आप क्या कह रहे हैं मुझे समझ में नहीं आ रहा",
+        "timestamp": "07:43:55 PM"
+      },
+      {
+        "speaker": "agent",
+        "text": "Explain politely that the front-desk coordinator will verify with the on-duty doctor.",
+        "timestamp": "07:43:55 PM"
+      }
+    ],
+    "metadata": {
+      "sessionType": "Interactive Demo Mode",
+      "voice": "Rachel",
+      "language": "Hindi / English",
+      "endedAt": "2026-10-25T14:14:22.067Z"
+    }
+  },
+  {
+    "id": "conv-1792853075452",
+    "agentId": "agent-1792853046623",
+    "agentName": "Aarogya Clinic Receptionist",
+    "type": "Demo Mode",
+    "isSample": false,
+    "startTime": "2026-10-24T14:44:35.452Z",
+    "duration": "0m 21s",
+    "status": "Completed",
+    "transcript": [
+      {
+        "speaker": "agent",
+        "text": "Namaste! Welcome to our clinic. Main aapki doctor appointment aur clinic timing me kaise sahayata kar sakta hoon?",
+        "timestamp": "08:14:14 PM"
+      },
+      {
+        "speaker": "user",
+        "text": "Kya Dr. Sharma aaj shaam ko available hain? Mujhe fever checkup karwana hai.",
+        "timestamp": "08:14:18 PM"
+      },
+      {
+        "speaker": "agent",
+        "text": "Ji haan! Dr. Sharma shaam 5:00 PM se 7:30 PM tak clinic me rahenge. Kya main aapke liye 5:30 PM ka slot book kar doon?",
+        "timestamp": "08:14:21 PM"
+      },
+      {
+        "speaker": "user",
+        "text": "Haan kripya 5:30 confirm kar dijiye. Fees kitni hogi?",
+        "timestamp": "08:14:26 PM"
+      },
+      {
+        "speaker": "agent",
+        "text": "General consultation fee ₹500 hai. Aapki appointment 5:30 PM confirm ho gayi hai. SMS bhej diya gaya hai!",
+        "timestamp": "08:14:29 PM"
+      }
+    ],
+    "metadata": {
+      "sessionType": "Demo Mode",
+      "voice": "Rachel",
+      "endedAt": "2026-10-24T14:44:35.439Z"
+    }
+  },
+  {
+    "id": "conv-1792851942648",
+    "agentId": "agent-customer-support-002",
+    "agentName": "Apex Cloud Support Assistant",
+    "type": "Demo Mode",
+    "isSample": false,
+    "startTime": "2026-10-24T14:25:42.648Z",
+    "duration": "0m 14s",
+    "status": "Completed",
+    "transcript": [
+      {
+        "speaker": "agent",
+        "text": "Hi there! Welcome to Apex Cloud Support. Are you calling about your subscription, an invoice, or technical troubleshooting?",
+        "timestamp": "07:55:28 PM"
+      },
+      {
+        "speaker": "user",
+        "text": "I want to upgrade my team plan to the annual enterprise tier.",
+        "timestamp": "07:55:32 PM"
+      },
+      {
+        "speaker": "agent",
+        "text": "I can certainly assist with that! Annual plans include a 20% discount and dedicated account manager. Would you like me to prepare your quote?",
+        "timestamp": "07:55:36 PM"
+      },
+      {
+        "speaker": "user",
+        "text": "Yes, please email the invoice breakdown to my registered address.",
+        "timestamp": "07:55:40 PM"
+      }
+    ],
+    "metadata": {
+      "sessionType": "Demo Mode",
+      "voice": "Domi (Clear & Professional)",
+      "endedAt": "2026-10-24T14:25:42.630Z"
+    }
+  },
+  {
+    "id": "conv-1792851898054",
+    "agentId": "agent-1792851854406",
+    "agentName": "AI Interview Practice Buddy",
+    "type": "Demo Mode",
+    "isSample": false,
+    "startTime": "2026-10-24T14:24:58.054Z",
+    "duration": "0m 13s",
+    "status": "Completed",
+    "transcript": [
+      {
+        "speaker": "agent",
+        "text": "Hello! Welcome to Horizon Academy admissions. How can I guide you with our courses, campus tours, or enrollment today?",
+        "timestamp": "07:54:45 PM"
+      },
+      {
+        "speaker": "user",
+        "text": "Can you tell me more about your services and operating hours?",
+        "timestamp": "07:54:48 PM"
+      },
+      {
+        "speaker": "agent",
+        "text": "Early applications close on December 1st; standard admissions remain open until February 15th.",
+        "timestamp": "07:54:52 PM"
+      },
+      {
+        "speaker": "user",
+        "text": "Thank you, that answers all my questions!",
+        "timestamp": "07:54:56 PM"
+      }
+    ],
+    "metadata": {
+      "sessionType": "Demo Mode",
+      "voice": "Domi",
+      "endedAt": "2026-10-24T14:24:58.036Z"
+    }
+  },
+  {
+    "id": "conv-1792848931796",
+    "agentId": "agent-1792848892026",
+    "agentName": "Clinic help",
+    "type": "Demo Mode",
+    "isSample": false,
+    "startTime": "2026-10-24T13:35:31.796Z",
+    "duration": "0m 30s",
+    "status": "Completed",
+    "transcript": [
+      {
+        "speaker": "agent",
+        "text": "Namaste! Welcome to our clinic. Main aapki doctor appointment aur clinic timing me kaise sahayata kar sakta hoon?",
+        "timestamp": "07:05:01 pm"
+      },
+      {
+        "speaker": "user",
+        "text": "Kya Dr. Sharma aaj shaam ko available hain? Mujhe fever checkup karwana hai.",
+        "timestamp": "07:05:05 pm"
+      },
+      {
+        "speaker": "agent",
+        "text": "Ji haan! Dr. Sharma shaam 5:00 PM se 7:30 PM tak clinic me rahenge. Kya main aapke liye 5:30 PM ka slot book kar doon?",
+        "timestamp": "07:05:08 pm"
+      },
+      {
+        "speaker": "user",
+        "text": "Haan kripya 5:30 confirm kar dijiye. Fees kitni hogi?",
+        "timestamp": "07:05:13 pm"
+      },
+      {
+        "speaker": "agent",
+        "text": "General consultation fee ₹500 hai. Aapki appointment 5:30 PM confirm ho gayi hai. SMS bhej diya gaya hai!",
+        "timestamp": "07:05:16 pm"
+      }
+    ],
+    "metadata": {
+      "sessionType": "Demo Mode",
+      "voice": "Rachel",
+      "endedAt": "2026-10-24T13:35:31.785Z"
+    }
+  },
+  {
+    "id": "conv-sample-001",
+    "agentId": "agent-clinic-receptionist-001",
+    "agentName": "Aarogya Clinic Receptionist",
+    "type": "Demo Mode",
+    "isSample": true,
+    "startTime": "2026-10-24T12:15:00.000Z",
+    "duration": "1m 48s",
+    "status": "Completed",
+    "transcript": [
+      {
+        "speaker": "agent",
+        "timestamp": "12:15:01",
+        "text": "Namaste! Welcome to Aarogya Health Clinic. Main aapki appointment booking aur clinic jaankari me kaise madad kar sakta hoon?"
+      },
+      {
+        "speaker": "user",
+        "timestamp": "12:15:08",
+        "text": "Hi, kya Dr. Sharma aaj shaam ko available hain? Mujhe fever aur cough ki checkup karwani hai."
+      },
+      {
+        "speaker": "agent",
+        "timestamp": "12:15:15",
+        "text": "Ji haan! Dr. Sharma General Physician aaj shaam 5:00 PM se 7:30 PM tak clinic me available hain. Kya main aapke liye 5:30 PM ka slot book kar doon?"
+      },
+      {
+        "speaker": "user",
+        "timestamp": "12:15:23",
+        "text": "Haan 5:30 theek rahega. Consultation fees kitni hogi?"
+      },
+      {
+        "speaker": "agent",
+        "timestamp": "12:15:30",
+        "text": "Dr. Sharma ki general consultation fee ₹500 hai. Kripya apna shubh naam aur phone number batayein taaki booking confirm ho sake."
+      },
+      {
+        "speaker": "user",
+        "timestamp": "12:15:38",
+        "text": "Mera naam Rahul Verma hai, number 9876543210."
+      },
+      {
+        "speaker": "agent",
+        "timestamp": "12:15:45",
+        "text": "Aapki appointment Dr. Sharma ke sath aaj shaam 5:30 PM ke liye confirm ho gayi hai Rahul ji. Confirmation SMS bhej diya gaya hai. Apna khayal rakhein!"
+      }
+    ],
+    "metadata": {
+      "sentiment": "Positive",
+      "resolved": true,
+      "satisfactionRating": 5
+    }
+  },
+  {
+    "id": "conv-sample-002",
+    "agentId": "agent-customer-support-002",
+    "agentName": "Apex Cloud Support Assistant",
+    "type": "Demo Mode",
+    "isSample": true,
+    "startTime": "2026-10-24T13:40:00.000Z",
+    "duration": "2m 12s",
+    "status": "Completed",
+    "transcript": [
+      {
+        "speaker": "agent",
+        "timestamp": "13:40:01",
+        "text": "Hi there! Welcome to Apex Cloud Support. Are you calling about your subscription, an invoice, or technical troubleshooting?"
+      },
+      {
+        "speaker": "user",
+        "timestamp": "13:40:07",
+        "text": "Hello, I noticed a charge on my credit card this morning and want to view the itemized breakdown."
+      },
+      {
+        "speaker": "agent",
+        "timestamp": "13:40:15",
+        "text": "I can certainly guide you to that. You can view and download all itemized invoices by logging in and navigating to Settings > Billing."
+      },
+      {
+        "speaker": "user",
+        "timestamp": "13:40:24",
+        "text": "Can I also switch our payment method from monthly credit card to corporate annual invoice?"
+      },
+      {
+        "speaker": "agent",
+        "timestamp": "13:40:32",
+        "text": "Yes, corporate invoicing is supported for our Growth and Enterprise plans. Would you like me to flag this for our billing specialist to prepare your enterprise agreement?"
+      },
+      {
+        "speaker": "user",
+        "timestamp": "13:40:40",
+        "text": "Yes please, that would be very helpful."
+      },
+      {
+        "speaker": "agent",
+        "timestamp": "13:40:48",
+        "text": "I have created ticket #APX-8492 for our enterprise billing desk. You will receive an email within 2 business hours. Is there anything else I can assist with today?"
+      }
+    ],
+    "metadata": {
+      "sentiment": "Satisfied",
+      "resolved": true,
+      "ticketCreated": "APX-8492"
+    }
+  },
+  {
+    "id": "conv-sample-003",
+    "agentId": "agent-college-enquiry-003",
+    "agentName": "Vidyapeeth Admissions Advisor",
+    "type": "Demo Mode",
+    "isSample": true,
+    "startTime": "2026-10-24T14:10:00.000Z",
+    "duration": "1m 35s",
+    "status": "Completed",
+    "transcript": [
+      {
+        "speaker": "agent",
+        "timestamp": "14:10:02",
+        "text": "Greetings from Vidyapeeth Institute of Technology! How can I assist you with admissions, campus life, or program details today?"
+      },
+      {
+        "speaker": "user",
+        "timestamp": "14:10:10",
+        "text": "Hi, what is the cutoff for Artificial Intelligence and Data Science B.Tech program?"
+      },
+      {
+        "speaker": "agent",
+        "timestamp": "14:10:18",
+        "text": "For the AI & Data Science B.Tech program, the expected JEE Main percentile cutoff is around 88 percentile, and state exam cutoff is rank 4500. Round 1 closes November 30th."
+      },
+      {
+        "speaker": "user",
+        "timestamp": "14:10:27",
+        "text": "Do you have hostel facilities for outstation students?"
+      },
+      {
+        "speaker": "agent",
+        "timestamp": "14:10:34",
+        "text": "Yes, we provide Wi-Fi enabled single and twin sharing hostels with round-the-clock security and dining. We also organize campus tours every Saturday at 10 AM. Would you like to reserve a visit pass?"
+      }
+    ],
+    "metadata": {
+      "sentiment": "Neutral",
+      "resolved": true,
+      "courseInterested": "B.Tech AI & Data Science"
+    }
+  },
+  {
+    "id": "conv-sample-004",
+    "agentId": "agent-clinic-receptionist-001",
+    "agentName": "Aarogya Clinic Receptionist",
+    "type": "Demo Mode",
+    "isSample": true,
+    "startTime": "2026-10-24T15:02:00.000Z",
+    "duration": "1m 10s",
+    "status": "Completed",
+    "transcript": [
+      {
+        "speaker": "agent",
+        "timestamp": "15:02:01",
+        "text": "Namaste! Welcome to Aarogya Health Clinic. Main aapki appointment booking aur clinic jaankari me kaise madad kar sakta hoon?"
+      },
+      {
+        "speaker": "user",
+        "timestamp": "15:02:08",
+        "text": "What are your Sunday timings? Is pediatric care available on Sundays?"
+      },
+      {
+        "speaker": "agent",
+        "timestamp": "15:02:16",
+        "text": "On Sundays our clinic is open from 9:00 AM to 1:00 PM for urgent consultations. Our on-duty pediatrician is available till 12:30 PM."
+      },
+      {
+        "speaker": "user",
+        "timestamp": "15:02:24",
+        "text": "Great, thank you so much for the quick information!"
+      },
+      {
+        "speaker": "agent",
+        "timestamp": "15:02:29",
+        "text": "You are most welcome! Wishing good health to your family. Namaste!"
+      }
+    ],
+    "metadata": {
+      "sentiment": "Positive",
+      "resolved": true
+    }
+  }
+]
